@@ -1,7 +1,9 @@
 # tictactoe
 Use your num pad to place X and O
-download : ```git clone https://github.com/tamsee1/tictactoe.git```
-run : ```python3 tictactoe/tictactoe.py``` 
+
+download: ```git clone https://github.com/tamsee1/tictactoe.git```
+
+run: ```python3 tictactoe/tictactoe.py```
 
 ``` 
 7
