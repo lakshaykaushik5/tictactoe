@@ -1,6 +1,5 @@
 # tictactoe
-A simple tic tac toe game
-use your num pad to place X and O
+A simple tic tac toe game. Use your num pad to place X and O
 
 run : ```python3 tictactoe.py``` 
 
