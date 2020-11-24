@@ -85,4 +85,4 @@ tictactoe()
 
 res=input("\nplay again ? (y/n): ")
 if res == 'y':
-    os.system('python3 tictactoe.py')
+    os.system('python3 tictactoe/tictactoe.py')
