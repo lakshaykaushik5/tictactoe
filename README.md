@@ -1,7 +1,7 @@
 # tictactoe
 Use your num pad to place X and O
 
-run : ```python3 tictactoe.py``` 
+run : ```python3 tictactoe/tictactoe.py``` 
 
 ``` 
 7
